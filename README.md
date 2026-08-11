@@ -132,10 +132,6 @@ Automated testing, software analytics, repository mining, developer studies, and
 
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=MIbrahim-17&theme=tokyonight&hide_border=true" />
 
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MIbrahim-17&theme=tokyo-night&hide_border=true&area=true" />
-
 </div>
 
 ---
@@ -218,7 +214,7 @@ Teaching undergraduate students topics including:
 
 <a href="https://ibrahim.codes">Website</a>
   •   <a href="https://github.com/MIbrahim-17">GitHub</a>
-  •   <a href="https://www.linkedin.com/">LinkedIn</a>
+  •   <a href="https://www.linkedin.com/in/mohammad-ibrahim-nasir-b3600a310/">LinkedIn</a>
   •   <a href="mailto:17.ibrahimnasir@gmail.com">Email</a>
 
 <br><br>
